@@ -16,11 +16,11 @@ export default async function Home() {
 						</div>
 					</Link>
 					<Link
-						href={"/manga"}
+						href={"/movies"}
 						title="Click here to get redirected to the manga webpage"
 					>
 						<div className={styles.manga}>
-							<h2>Manga</h2>
+							<h2>Movie</h2>
 							<p>Your one stop for all your manga needs</p>
 						</div>
 					</Link>
@@ -34,11 +34,11 @@ export default async function Home() {
 						</div>
 					</Link>
 					<Link
-						href={"/movies"}
-						title="Click here to get redirected to the kdrama webpage"
+						
+						title=""
 					>
 						<div className={styles.movies}>
-							<h2>Movies</h2>
+							<h2>Welcome To RayStream Watch Anime, Kdrama, Movies, For Free</h2>
 							<p>Your one stop for all your movie needs</p>
 						</div>
 					</Link>
