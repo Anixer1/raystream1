@@ -10,7 +10,7 @@ export default async function Header() {
 						href={"/"}
 						style={{ textDecoration: "none", color: "white" }}
 					>
-						<p>Dramalama</p>
+						<p>RayStream</p>
 					</Link>
 				</div>
 				<div className={styles.right}>
