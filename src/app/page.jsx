@@ -12,7 +12,7 @@ export default async function Home() {
 					>
 						<div className={styles.anime}>
 							<h2>Anime</h2>
-							<p>Your one stop for all your anime needs</p>
+							<p></p>
 						</div>
 					</Link>
 					<Link
@@ -21,7 +21,7 @@ export default async function Home() {
 					>
 						<div className={styles.manga}>
 							<h2>Movie</h2>
-							<p>Your one stop for all your movies needs</p>
+							<p></p>
 						</div>
 					</Link>
 					<Link
@@ -30,7 +30,7 @@ export default async function Home() {
 					>
 						<div className={styles.kdrama}>
 							<h2>Kdrama</h2>
-							<p>Your one stop for all your kdrama needs</p>
+							<p></p>
 						</div>
 					</Link>
 					<Link
@@ -38,8 +38,8 @@ export default async function Home() {
 						title=""
 					>
 						<div className={styles.movies}>
-							<h2>Welcome To RayStream Watch Anime, Kdrama, Movies, For Free</h2>
-							<p>Enjoy Watching 🎞️📺📽️🎥🎬🎭🎫🎟️</p>
+							<h2></h2>
+							<p>elcome To RayStream Watch Anime, Kdrama, Movies, For Free Enjoy Watching 🎞️📺📽️🎥🎬🎭🎫🎟️</p>
 						</div>
 					</Link>
 				</div>
