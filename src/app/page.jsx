@@ -39,7 +39,7 @@ export default async function Home() {
 					>
 						<div className={styles.movies}>
 							<h2>Welcome To RayStream Watch Anime, Kdrama, Movies, For Free</h2>
-							<p>Your one stop for all your movie needs</p>
+							<p>Enjoy Watching 🎞️📺📽️🎥🎬🎭🎫🎟️</p>
 						</div>
 					</Link>
 				</div>
