@@ -34,7 +34,7 @@ export default async function Home() {
 						</div>
 					</Link>
 					<Link
-						
+						href={""}
 						title=""
 					>
 						<div className={styles.movies}>
