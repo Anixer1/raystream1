@@ -13,7 +13,7 @@ export const metadata = {
 		"Online Service To Watch Movie Kdramas And Anime For Free.For Free.",
 	generator: "Next.js",
 	applicationName: "RayStream",
-	authors: [{ name: "Ray", url: "https://github.com/real-zephex" }],
+	authors: [{ name: "Ray", url: "https://www.facebook.com/animxer" }],
 	creator: "Ray",
 	keywords: ["Kdrama", "Anime", "Movies", "Watch Online"],
 	robots: {
