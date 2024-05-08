@@ -17,7 +17,7 @@ export default async function Header() {
 					<Link href="/anime">Anime</Link>
 					<Link href="/kdrama">Kdrama</Link>
 					<Link href="/movies">Movies</Link>
-					<Link href="">Welcome To RayStream Watch Anime, Kdrama, Movies, For Free</Link>
+					<Link href="/">Home</Link>
 				</div>
 			</div>
 		</main>
