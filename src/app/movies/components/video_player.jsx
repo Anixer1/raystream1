@@ -7,7 +7,7 @@ export default function VIDEO_PLAYER({ id: id }) {
 	const [frame, setFrame] = useState(null);
 
 	useEffect(() => {
-		make_player(`https://vidsrc.pro/embed/movie/${id}`);
+		make_player(`https://player.autoembed.cc/embed/movie/${id}`);
 	}, []);
 
 	function make_player(url) {
@@ -26,10 +26,10 @@ export default function VIDEO_PLAYER({ id: id }) {
 			<div>
 				<button
 					onClick={() =>
-						make_player(`https://vidsrc.pro/embed/movie/${id}`)
+						make_player(`https://player.autoembed.cc/embed/movie/${id}`)
 					}
 				>
-					Vidsrc.pro
+					autoembed.cc
 				</button>
 				<button
 					onClick={() =>
@@ -55,11 +55,11 @@ export default function VIDEO_PLAYER({ id: id }) {
 				<button
 					onClick={() =>
 						make_player(
-							`https://player.autoembed.cc/embed/movie/${id}`
+							`https://vidsrc.pro/embed/movie/${id}`
 						)
 					}
 				>
-					Autoembded.cc
+					vidscr.pro
 				</button>
 			</div>
 			{frame}
