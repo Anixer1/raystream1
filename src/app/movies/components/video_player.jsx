@@ -55,11 +55,11 @@ export default function VIDEO_PLAYER({ id: id }) {
 				<button
 					onClick={() =>
 						make_player(
-							`https://vidsrc.pro/embed/movie/${id}`
+							`https://player.vidsrc.online/embed/movie/${id}`
 						)
 					}
 				>
-					vidscr.pro
+					vidscr.online
 				</button>
 			</div>
 			{frame}
