@@ -55,7 +55,7 @@ export default function VIDEO_PLAYER({ id: id }) {
 				<button
 					onClick={() =>
 						make_player(
-							`https://player.vidsrc.online/video/movie/${id}`
+							`https://vidsrc.pro/embed/movie/${id}`
 						)
 					}
 				>
